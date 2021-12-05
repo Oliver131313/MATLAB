@@ -1,0 +1,28 @@
+       UÈO                      Meno      Kapitola 2      Kapitola 3 
+ ======================================================================
+    483022              Danìk, Jakub              45              21 
+    471486            Holomáò, Enrik              42              31 
+    460853          Hrozány, Timotej              19              28 
+    455541             Hutai, Roland              19              24 
+    525822         Chlumová, Alžbìta              15              30 
+    455708              Janek, Jakub              41               5 
+    444086             Juran, Samuel              10              13 
+    482596              Kádek, Matej              35              28 
+    467823              Kašná, Klára              46              33 
+    482452            Kolašín, Jonáš               8              21 
+    408473          Köttová, Barbora              35              18 
+    482714           Kuchejda, Tomáš              16               9 
+    525804             Kutiš, Oliver              48              34 
+    482764          Lipka, Alexander              42              13 
+    495857           Makara, Richard              41              34 
+    482706           Rozprým, Martin              48              12 
+    461219             Skoupý, Jakub              11              12 
+    482776      Strašilová, Michaela              20              14 
+    484030          Stupòanová, Sára              32              19 
+    517308             Škára, Michal               7              24 
+    478287          Švihlová, Silvia              10              24 
+    525824           Übelauer, Pavel              46              19 
+    525849         Veèerková, Monika              36              17 
+    474264        Vitanovcová, Petra              37              28 
+    466498         Vondráèek, Štìpán              27              19 
+    525850    Zatloukalová, Štìpánka              26              19 
