@@ -1,0 +1,8 @@
+# This is a description file to the project
+Code focuses on simulation of current (at all times) season results and resulting ranking of teams. 
+1. Scraping data to obtain results of PL matches from past seasons from fbref.com
+2. Data are aggregated are prepared in Python
+3. MATLAB file calls .py files to obtain updated data for PL results and performs simulations>
+  i. Simulation of final ranking for whole season based on data from the (most recent) past season
+  ii. Simulation of up-to-date (preliminary) rankings from the past season
+  iii. Simulation of final ranking using played matches from current and the past season
