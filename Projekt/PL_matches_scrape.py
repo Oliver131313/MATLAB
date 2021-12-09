@@ -30,19 +30,17 @@ for x in bs.find_all('a', href=re.compile('^\/en/comps/9/[0-9|P]+')):
         #print(x.attrs['href'])
         link = 'https://fbref.com' + x.attrs['href']
         print(link)
-        if len(seasons_links) <= 6:
-            seasons_links.append(link)
-        else:
-            break
+        seasons_links.append(link)
+
 
 
 # In[3]:
 
 
 # For each season url, get an url to fixtures of that season
-#  Do that only for last 6 seasons!
+#  Do that only for last 2 seasons!
 fixtures_links = []
-for link in seasons_links:
+for link in seasons_links[:2]:
     season = uReq(link)
     bs_season = soup(season.read(), 'html.parser')
     fixture = bs_season.find('a', href=re.compile('Premier-League-Scores-and-Fixtures+'))
@@ -54,16 +52,11 @@ for link in seasons_links:
 
 
 # Get the header from table in fixtures
-for link in fixtures_links:
-    x = 0
-    fix = uReq(link)
-    bs_fix = soup(fix.read(), 'html.parser')
-    div = bs_fix.find('div', {'id':'all_sched'})
-    header_row = div.find_all('th', {'class': [' ', 'poptip','sort_default_asc', 'center']})[0:14]
-    print(header_row)
-    x = 1
-    if x == 1:
-        break
+link = fixtures_links[0]
+fix = uReq(link)
+bs_fix = soup(fix.read(), 'html.parser')
+div = bs_fix.find('div', {'id':'all_sched'})
+header_row = div.find_all('th', {'class': [' ', 'poptip','sort_default_asc', 'center']})[0:14]
 
 
 # In[5]:
@@ -89,7 +82,7 @@ header.remove('xg_b')
 
 # Get a table of fixtures for each season
 tables = []
-for link in fixtures_links[0:6]:
+for link in fixtures_links:
     fix = uReq(link)
     print(link)
     bs_fix = soup(fix.read(), 'html.parser')
@@ -146,16 +139,7 @@ pl = pd.DataFrame(data=data)
 pl.head(50)
 
 
-# In[103]:
 
-
-pl.info()
-
-
-# In[112]:
-
-
-# Getting rid of empty rows
 x = -1
 indexes = []
 for val in pl['squad_a'].values:
@@ -166,32 +150,11 @@ for val in pl['squad_a'].values:
 pl.iloc[indexes].sum()
 
 
-# In[120]:
-
 
 pl.drop(indexes, axis=0, inplace=True)
 
 
-# In[121]:
-
-
 pl.info()
-
-
-# In[127]:
-
-
-# Number of PL matches
-first_3_yrs = 3*21*22
-onwards = 27*19*20
-total_games = first_3_yrs + onwards
-
-print(f"Number of games in dataset equals the real number: {len(pl.score) == total_games}")
-
-
-# ## Saving Scrapped Data 
-
-# In[131]:
 
 
 pl.to_csv('PL_AllMatches_Scores_Links.csv', index=False)

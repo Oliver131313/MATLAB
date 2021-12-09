@@ -1,7 +1,7 @@
 function table = table_agr(table1, f)
-% Vezme statistiky timu pre domace zapasy a vonkajsie zapasy, spriemeruje
-% pocet golov a spoji do jednej agregovanej tabulky
 % Argumenty: table1 = tabulka o 4 stlpcoch; f = "mean" alebo "sum"
+% Vezme statistiky timu pre domace zapasy a vonkajsie zapasy, spriemeruj/scita 
+% pocet golov/pocet bodov a spoji do jednej agregovanej tabulky
 if f == "mean" 
     func = @(p, q) [mean(p), mean(q)];
     % Group_by + mean - Domace statistiky

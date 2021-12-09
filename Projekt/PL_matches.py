@@ -259,7 +259,19 @@ pl['a_score_diff'] = a_score_diff
 # ## Create a dataset of played games and calculate ELO ratings
 
 # In[21]:
+pl.columns = ['season', 'gameweek', 'dayofweek', 'date', 'h_Team', 'score', 'a_Team',
+               'att', 'stadium', 'ref', 'report_link', 'h_scored', 'a_scored',
+               'id_game', 'h_r_before', 'a_r_before', 'h_r_after', 'a_r_after',
+               'h_result', 'a_result', 'h_score_diff', 'a_score_diff']
 
+# Pridanie indikatora sezony
+y = 0
+for x in pl.season:
+    if y <= 379:
+        pl.season[y] = 1
+    else:
+        pl.season[y] = 2
+    y += 1
 
 # pl_played = pl.loc[pl.date < '2021-08-13']
 pl_played = pl.loc[pl.score != "0"]
@@ -274,7 +286,7 @@ pl_not_played = pl.loc[pl.score == '0']
 pl_played
 pl_not_played
 
-pl_played.to_csv('pl_played.csv', index=False )
+pl_played.to_csv('pl_played.csv', index=False)
 pl_not_played.to_csv('pl_not_played.csv', index=False)
 
 

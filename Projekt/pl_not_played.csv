@@ -1,242 +1,232 @@
-index,gameweek,dayofweek,date,h_Team,score,a_Team,att,stadium,ref,report_link,h_scored,a_scored,id_game,h_r_before,a_r_before,h_r_after,a_r_after,h_result,a_result,h_score_diff,a_score_diff
-2025,13,Sun,2021-11-28,Burnley,0,Tottenham,0,Turf Moor,Peter Bankes,0,0,0,2025,1,1,0,0,0.5,0.5,0,0
-2040,15,Sat,2021-12-04,Watford,0,Manchester City,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/2abfe087/Manchester-City-vs-Watford-History,0,0,2040,1,1,0,0,0.5,0.5,0,0
-2041,15,Sat,2021-12-04,Southampton,0,Brighton,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/33c895d4/Brighton-and-Hove-Albion-vs-Southampton-History,0,0,2041,1,1,0,0,0.5,0.5,0,0
-2042,15,Sat,2021-12-04,Newcastle Utd,0,Burnley,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/943e8050/Newcastle-United-vs-Burnley-History,0,0,2042,1,1,0,0,0.5,0.5,0,0
-2043,15,Sat,2021-12-04,Wolves,0,Liverpool,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/822bd0ba/Wolverhampton-Wanderers-vs-Liverpool-History,0,0,2043,1,1,0,0,0.5,0.5,0,0
-2044,15,Sat,2021-12-04,West Ham,0,Chelsea,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/7c21e445/Chelsea-vs-West-Ham-United-History,0,0,2044,1,1,0,0,0.5,0.5,0,0
-2045,15,Sun,2021-12-05,Aston Villa,0,Leicester City,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/8602292d/Leicester-City-vs-Aston-Villa-History,0,0,2045,1,1,0,0,0.5,0.5,0,0
-2046,15,Sun,2021-12-05,Tottenham,0,Norwich City,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/1c781004/Tottenham-Hotspur-vs-Norwich-City-History,0,0,2046,1,1,0,0,0.5,0.5,0,0
-2047,15,Sun,2021-12-05,Manchester Utd,0,Crystal Palace,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/19538871/Crystal-Palace-vs-Manchester-United-History,0,0,2047,1,1,0,0,0.5,0.5,0,0
-2048,15,Sun,2021-12-05,Leeds United,0,Brentford,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/cd051869/5bfb9659/Brentford-vs-Leeds-United-History,0,0,2048,1,1,0,0,0.5,0.5,0,0
-2049,15,Mon,2021-12-06,Everton,0,Arsenal,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/18bb7c10/Everton-vs-Arsenal-History,0,0,2049,1,1,0,0,0.5,0.5,0,0
-2050,16,Fri,2021-12-10,Brentford,0,Watford,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/2abfe087/Brentford-vs-Watford-History,0,0,2050,1,1,0,0,0.5,0.5,0,0
-2051,16,Sat,2021-12-11,Manchester City,0,Wolves,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/8cec06e1/Manchester-City-vs-Wolverhampton-Wanderers-History,0,0,2051,1,1,0,0,0.5,0.5,0,0
-2052,16,Sat,2021-12-11,Chelsea,0,Leeds United,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/5bfb9659/Chelsea-vs-Leeds-United-History,0,0,2052,1,1,0,0,0.5,0.5,0,0
-2053,16,Sat,2021-12-11,Liverpool,0,Aston Villa,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/8602292d/822bd0ba/Aston-Villa-vs-Liverpool-History,0,0,2053,1,1,0,0,0.5,0.5,0,0
-2054,16,Sat,2021-12-11,Arsenal,0,Southampton,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/18bb7c10/Southampton-vs-Arsenal-History,0,0,2054,1,1,0,0,0.5,0.5,0,0
-2055,16,Sat,2021-12-11,Norwich City,0,Manchester Utd,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/1c781004/19538871/Norwich-City-vs-Manchester-United-History,0,0,2055,1,1,0,0,0.5,0.5,0,0
-2056,16,Sun,2021-12-12,Burnley,0,West Ham,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/7c21e445/Burnley-vs-West-Ham-United-History,0,0,2056,1,1,0,0,0.5,0.5,0,0
-2057,16,Sun,2021-12-12,Leicester City,0,Newcastle Utd,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/a2d435b3/Newcastle-United-vs-Leicester-City-History,0,0,2057,1,1,0,0,0.5,0.5,0,0
-2058,16,Sun,2021-12-12,Brighton,0,Tottenham,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/361ca564/Brighton-and-Hove-Albion-vs-Tottenham-Hotspur-History,0,0,2058,1,1,0,0,0.5,0.5,0,0
-2059,16,Sun,2021-12-12,Crystal Palace,0,Everton,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/47c64c55/Everton-vs-Crystal-Palace-History,0,0,2059,1,1,0,0,0.5,0.5,0,0
-2060,17,Tue,2021-12-14,Brentford,0,Manchester Utd,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/19538871/Brentford-vs-Manchester-United-History,0,0,2060,1,1,0,0,0.5,0.5,0,0
-2061,17,Tue,2021-12-14,Norwich City,0,Aston Villa,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/8602292d/1c781004/Aston-Villa-vs-Norwich-City-History,0,0,2061,1,1,0,0,0.5,0.5,0,0
-2062,17,Tue,2021-12-14,Manchester City,0,Leeds United,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/5bfb9659/Manchester-City-vs-Leeds-United-History,0,0,2062,1,1,0,0,0.5,0.5,0,0
-2063,17,Wed,2021-12-15,Arsenal,0,West Ham,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/18bb7c10/West-Ham-United-vs-Arsenal-History,0,0,2063,1,1,0,0,0.5,0.5,0,0
-2064,17,Wed,2021-12-15,Brighton,0,Wolves,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/8cec06e1/Brighton-and-Hove-Albion-vs-Wolverhampton-Wanderers-History,0,0,2064,1,1,0,0,0.5,0.5,0,0
-2065,17,Wed,2021-12-15,Crystal Palace,0,Southampton,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/33c895d4/Crystal-Palace-vs-Southampton-History,0,0,2065,1,1,0,0,0.5,0.5,0,0
-2066,17,Wed,2021-12-15,Burnley,0,Watford,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/2abfe087/Burnley-vs-Watford-History,0,0,2066,1,1,0,0,0.5,0.5,0,0
-2067,17,Thu,2021-12-16,Liverpool,0,Newcastle Utd,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/822bd0ba/Newcastle-United-vs-Liverpool-History,0,0,2067,1,1,0,0,0.5,0.5,0,0
-2068,17,Thu,2021-12-16,Chelsea,0,Everton,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/cff3d9bb/Everton-vs-Chelsea-History,0,0,2068,1,1,0,0,0.5,0.5,0,0
-2069,17,Thu,2021-12-16,Leicester City,0,Tottenham,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/361ca564/Leicester-City-vs-Tottenham-Hotspur-History,0,0,2069,1,1,0,0,0.5,0.5,0,0
-2070,18,Sat,2021-12-18,Manchester Utd,0,Brighton,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/19538871/Brighton-and-Hove-Albion-vs-Manchester-United-History,0,0,2070,1,1,0,0,0.5,0.5,0,0
-2071,18,Sat,2021-12-18,Southampton,0,Brentford,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/33c895d4/Brentford-vs-Southampton-History,0,0,2071,1,1,0,0,0.5,0.5,0,0
-2072,18,Sat,2021-12-18,West Ham,0,Norwich City,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/1c781004/West-Ham-United-vs-Norwich-City-History,0,0,2072,1,1,0,0,0.5,0.5,0,0
-2073,18,Sat,2021-12-18,Watford,0,Crystal Palace,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/2abfe087/Crystal-Palace-vs-Watford-History,0,0,2073,1,1,0,0,0.5,0.5,0,0
-2074,18,Sat,2021-12-18,Aston Villa,0,Burnley,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/943e8050/8602292d/Burnley-vs-Aston-Villa-History,0,0,2074,1,1,0,0,0.5,0.5,0,0
-2075,18,Sat,2021-12-18,Leeds United,0,Arsenal,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/18bb7c10/Leeds-United-vs-Arsenal-History,0,0,2075,1,1,0,0,0.5,0.5,0,0
-2076,18,Sun,2021-12-19,Tottenham,0,Liverpool,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/361ca564/Liverpool-vs-Tottenham-Hotspur-History,0,0,2076,1,1,0,0,0.5,0.5,0,0
-2077,18,Sun,2021-12-19,Everton,0,Leicester City,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/a2d435b3/Everton-vs-Leicester-City-History,0,0,2077,1,1,0,0,0.5,0.5,0,0
-2078,18,Sun,2021-12-19,Newcastle Utd,0,Manchester City,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/b2b47a98/Manchester-City-vs-Newcastle-United-History,0,0,2078,1,1,0,0,0.5,0.5,0,0
-2079,18,Sun,2021-12-19,Wolves,0,Chelsea,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/8cec06e1/Chelsea-vs-Wolverhampton-Wanderers-History,0,0,2079,1,1,0,0,0.5,0.5,0,0
-2080,19,Sun,2021-12-26,Wolves,0,Watford,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/2abfe087/Wolverhampton-Wanderers-vs-Watford-History,0,0,2080,1,1,0,0,0.5,0.5,0,0
-2081,19,Sun,2021-12-26,Liverpool,0,Leeds United,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/5bfb9659/Liverpool-vs-Leeds-United-History,0,0,2081,1,1,0,0,0.5,0.5,0,0
-2082,19,Sun,2021-12-26,Manchester City,0,Leicester City,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/a2d435b3/Manchester-City-vs-Leicester-City-History,0,0,2082,1,1,0,0,0.5,0.5,0,0
-2083,19,Sun,2021-12-26,Norwich City,0,Arsenal,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/1c781004/18bb7c10/Norwich-City-vs-Arsenal-History,0,0,2083,1,1,0,0,0.5,0.5,0,0
-2084,19,Sun,2021-12-26,West Ham,0,Southampton,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/33c895d4/West-Ham-United-vs-Southampton-History,0,0,2084,1,1,0,0,0.5,0.5,0,0
-2085,19,Sun,2021-12-26,Burnley,0,Everton,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/943e8050/Everton-vs-Burnley-History,0,0,2085,1,1,0,0,0.5,0.5,0,0
-2086,19,Sun,2021-12-26,Tottenham,0,Crystal Palace,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/361ca564/Crystal-Palace-vs-Tottenham-Hotspur-History,0,0,2086,1,1,0,0,0.5,0.5,0,0
-2087,19,Sun,2021-12-26,Aston Villa,0,Chelsea,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/8602292d/Chelsea-vs-Aston-Villa-History,0,0,2087,1,1,0,0,0.5,0.5,0,0
-2088,19,Sun,2021-12-26,Brighton,0,Brentford,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/cd051869/Brighton-and-Hove-Albion-vs-Brentford-History,0,0,2088,1,1,0,0,0.5,0.5,0,0
-2089,19,Mon,2021-12-27,Newcastle Utd,0,Manchester Utd,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/19538871/Newcastle-United-vs-Manchester-United-History,0,0,2089,1,1,0,0,0.5,0.5,0,0
-2090,20,Tue,2021-12-28,Arsenal,0,Wolves,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/18bb7c10/Wolverhampton-Wanderers-vs-Arsenal-History,0,0,2090,1,1,0,0,0.5,0.5,0,0
-2091,20,Tue,2021-12-28,Leicester City,0,Liverpool,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/822bd0ba/Leicester-City-vs-Liverpool-History,0,0,2091,1,1,0,0,0.5,0.5,0,0
-2092,20,Tue,2021-12-28,Crystal Palace,0,Norwich City,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/1c781004/Crystal-Palace-vs-Norwich-City-History,0,0,2092,1,1,0,0,0.5,0.5,0,0
-2093,20,Tue,2021-12-28,Watford,0,West Ham,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/2abfe087/West-Ham-United-vs-Watford-History,0,0,2093,1,1,0,0,0.5,0.5,0,0
-2094,20,Tue,2021-12-28,Southampton,0,Tottenham,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/33c895d4/Tottenham-Hotspur-vs-Southampton-History,0,0,2094,1,1,0,0,0.5,0.5,0,0
-2095,20,Tue,2021-12-28,Leeds United,0,Aston Villa,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/8602292d/5bfb9659/Aston-Villa-vs-Leeds-United-History,0,0,2095,1,1,0,0,0.5,0.5,0,0
-2096,20,Wed,2021-12-29,Brentford,0,Manchester City,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/b8fd03ef/Brentford-vs-Manchester-City-History,0,0,2096,1,1,0,0,0.5,0.5,0,0
-2097,20,Wed,2021-12-29,Chelsea,0,Brighton,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/cff3d9bb/Brighton-and-Hove-Albion-vs-Chelsea-History,0,0,2097,1,1,0,0,0.5,0.5,0,0
-2098,20,Thu,2021-12-30,Everton,0,Newcastle Utd,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/b2b47a98/Everton-vs-Newcastle-United-History,0,0,2098,1,1,0,0,0.5,0.5,0,0
-2099,20,Thu,2021-12-30,Manchester Utd,0,Burnley,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/943e8050/19538871/Burnley-vs-Manchester-United-History,0,0,2099,1,1,0,0,0.5,0.5,0,0
-2100,21,Sat,2022-01-01,Arsenal,0,Manchester City,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/18bb7c10/Manchester-City-vs-Arsenal-History,0,0,2100,1,1,0,0,0.5,0.5,0,0
-2101,21,Sat,2022-01-01,Leicester City,0,Norwich City,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/1c781004/Leicester-City-vs-Norwich-City-History,0,0,2101,1,1,0,0,0.5,0.5,0,0
-2102,21,Sat,2022-01-01,Watford,0,Tottenham,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/2abfe087/Tottenham-Hotspur-vs-Watford-History,0,0,2102,1,1,0,0,0.5,0.5,0,0
-2103,21,Sat,2022-01-01,Crystal Palace,0,West Ham,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/47c64c55/West-Ham-United-vs-Crystal-Palace-History,0,0,2103,1,1,0,0,0.5,0.5,0,0
-2104,21,Sun,2022-01-02,Southampton,0,Newcastle Utd,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/33c895d4/Newcastle-United-vs-Southampton-History,0,0,2104,1,1,0,0,0.5,0.5,0,0
-2105,21,Sun,2022-01-02,Chelsea,0,Liverpool,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/822bd0ba/Chelsea-vs-Liverpool-History,0,0,2105,1,1,0,0,0.5,0.5,0,0
-2106,21,Sun,2022-01-02,Leeds United,0,Burnley,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/943e8050/5bfb9659/Burnley-vs-Leeds-United-History,0,0,2106,1,1,0,0,0.5,0.5,0,0
-2107,21,Sun,2022-01-02,Brentford,0,Aston Villa,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/8602292d/Brentford-vs-Aston-Villa-History,0,0,2107,1,1,0,0,0.5,0.5,0,0
-2108,21,Sun,2022-01-02,Everton,0,Brighton,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/d07537b9/Everton-vs-Brighton-and-Hove-Albion-History,0,0,2108,1,1,0,0,0.5,0.5,0,0
-2109,21,Mon,2022-01-03,Manchester Utd,0,Wolves,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/19538871/Wolverhampton-Wanderers-vs-Manchester-United-History,0,0,2109,1,1,0,0,0.5,0.5,0,0
-2110,22,Fri,2022-01-14,Brighton,0,Crystal Palace,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/47c64c55/Brighton-and-Hove-Albion-vs-Crystal-Palace-History,0,0,2110,1,1,0,0,0.5,0.5,0,0
-2111,22,Sat,2022-01-15,Manchester City,0,Chelsea,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/b8fd03ef/Chelsea-vs-Manchester-City-History,0,0,2111,1,1,0,0,0.5,0.5,0,0
-2112,22,Sat,2022-01-15,Liverpool,0,Brentford,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/cd051869/822bd0ba/Brentford-vs-Liverpool-History,0,0,2112,1,1,0,0,0.5,0.5,0,0
-2113,22,Sat,2022-01-15,Newcastle Utd,0,Watford,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/2abfe087/Newcastle-United-vs-Watford-History,0,0,2113,1,1,0,0,0.5,0.5,0,0
-2114,22,Sat,2022-01-15,Wolves,0,Southampton,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/33c895d4/Wolverhampton-Wanderers-vs-Southampton-History,0,0,2114,1,1,0,0,0.5,0.5,0,0
-2115,22,Sat,2022-01-15,Norwich City,0,Everton,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/1c781004/Everton-vs-Norwich-City-History,0,0,2115,1,1,0,0,0.5,0.5,0,0
-2116,22,Sat,2022-01-15,Burnley,0,Leicester City,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/943e8050/Leicester-City-vs-Burnley-History,0,0,2116,1,1,0,0,0.5,0.5,0,0
-2117,22,Sat,2022-01-15,Aston Villa,0,Manchester Utd,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/19538871/Aston-Villa-vs-Manchester-United-History,0,0,2117,1,1,0,0,0.5,0.5,0,0
-2118,22,Sun,2022-01-16,West Ham,0,Leeds United,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/5bfb9659/West-Ham-United-vs-Leeds-United-History,0,0,2118,1,1,0,0,0.5,0.5,0,0
-2119,22,Sun,2022-01-16,Tottenham,0,Arsenal,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/18bb7c10/North-London-Derby-Tottenham-Hotspur-vs-Arsenal-History,0,0,2119,1,1,0,0,0.5,0.5,0,0
-2120,23,Fri,2022-01-21,Watford,0,Norwich City,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/2abfe087/1c781004/Watford-vs-Norwich-City-History,0,0,2120,1,1,0,0,0.5,0.5,0,0
-2121,23,Sat,2022-01-22,Arsenal,0,Burnley,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/18bb7c10/Burnley-vs-Arsenal-History,0,0,2121,1,1,0,0,0.5,0.5,0,0
-2122,23,Sat,2022-01-22,Manchester Utd,0,West Ham,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/19538871/West-Ham-United-vs-Manchester-United-History,0,0,2122,1,1,0,0,0.5,0.5,0,0
-2123,23,Sat,2022-01-22,Leicester City,0,Brighton,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/a2d435b3/Brighton-and-Hove-Albion-vs-Leicester-City-History,0,0,2123,1,1,0,0,0.5,0.5,0,0
-2124,23,Sat,2022-01-22,Leeds United,0,Newcastle Utd,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/5bfb9659/Newcastle-United-vs-Leeds-United-History,0,0,2124,1,1,0,0,0.5,0.5,0,0
-2125,23,Sat,2022-01-22,Southampton,0,Manchester City,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/33c895d4/Manchester-City-vs-Southampton-History,0,0,2125,1,1,0,0,0.5,0.5,0,0
-2126,23,Sat,2022-01-22,Everton,0,Aston Villa,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/8602292d/Everton-vs-Aston-Villa-History,0,0,2126,1,1,0,0,0.5,0.5,0,0
-2127,23,Sat,2022-01-22,Brentford,0,Wolves,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/8cec06e1/Brentford-vs-Wolverhampton-Wanderers-History,0,0,2127,1,1,0,0,0.5,0.5,0,0
-2128,23,Sun,2022-01-23,Crystal Palace,0,Liverpool,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/47c64c55/Liverpool-vs-Crystal-Palace-History,0,0,2128,1,1,0,0,0.5,0.5,0,0
-2129,23,Sun,2022-01-23,Chelsea,0,Tottenham,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/361ca564/Chelsea-vs-Tottenham-Hotspur-History,0,0,2129,1,1,0,0,0.5,0.5,0,0
-2130,24,Tue,2022-02-08,Wolves,0,Arsenal,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/18bb7c10/Wolverhampton-Wanderers-vs-Arsenal-History,0,0,2130,1,1,0,0,0.5,0.5,0,0
-2131,24,Tue,2022-02-08,West Ham,0,Watford,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/2abfe087/West-Ham-United-vs-Watford-History,0,0,2131,1,1,0,0,0.5,0.5,0,0
-2132,24,Tue,2022-02-08,Aston Villa,0,Leeds United,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/5bfb9659/Aston-Villa-vs-Leeds-United-History,0,0,2132,1,1,0,0,0.5,0.5,0,0
-2133,24,Tue,2022-02-08,Brighton,0,Chelsea,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/cff3d9bb/Brighton-and-Hove-Albion-vs-Chelsea-History,0,0,2133,1,1,0,0,0.5,0.5,0,0
-2134,24,Tue,2022-02-08,Burnley,0,Manchester Utd,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/19538871/Burnley-vs-Manchester-United-History,0,0,2134,1,1,0,0,0.5,0.5,0,0
-2135,24,Tue,2022-02-08,Norwich City,0,Crystal Palace,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/1c781004/Crystal-Palace-vs-Norwich-City-History,0,0,2135,1,1,0,0,0.5,0.5,0,0
-2136,24,Wed,2022-02-09,Tottenham,0,Southampton,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/33c895d4/Tottenham-Hotspur-vs-Southampton-History,0,0,2136,1,1,0,0,0.5,0.5,0,0
-2137,24,Wed,2022-02-09,Newcastle Utd,0,Everton,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/b2b47a98/Everton-vs-Newcastle-United-History,0,0,2137,1,1,0,0,0.5,0.5,0,0
-2138,24,Wed,2022-02-09,Manchester City,0,Brentford,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/b8fd03ef/Brentford-vs-Manchester-City-History,0,0,2138,1,1,0,0,0.5,0.5,0,0
-2139,24,Wed,2022-02-09,Liverpool,0,Leicester City,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/822bd0ba/Leicester-City-vs-Liverpool-History,0,0,2139,1,1,0,0,0.5,0.5,0,0
-2140,25,Sat,2022-02-12,Chelsea,0,Arsenal,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/18bb7c10/North-West-London-Derby-Chelsea-vs-Arsenal-History,0,0,2140,1,1,0,0,0.5,0.5,0,0
-2141,25,Sat,2022-02-12,Watford,0,Brighton,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/2abfe087/Brighton-and-Hove-Albion-vs-Watford-History,0,0,2141,1,1,0,0,0.5,0.5,0,0
-2142,25,Sat,2022-02-12,Norwich City,0,Manchester City,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/1c781004/Manchester-City-vs-Norwich-City-History,0,0,2142,1,1,0,0,0.5,0.5,0,0
-2143,25,Sat,2022-02-12,Brentford,0,Crystal Palace,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/47c64c55/Brentford-vs-Crystal-Palace-History,0,0,2143,1,1,0,0,0.5,0.5,0,0
-2144,25,Sat,2022-02-12,Burnley,0,Liverpool,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/822bd0ba/Burnley-vs-Liverpool-History,0,0,2144,1,1,0,0,0.5,0.5,0,0
-2145,25,Sat,2022-02-12,Newcastle Utd,0,Aston Villa,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/8602292d/Newcastle-United-vs-Aston-Villa-History,0,0,2145,1,1,0,0,0.5,0.5,0,0
-2146,25,Sat,2022-02-12,Manchester Utd,0,Southampton,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/19538871/Southampton-vs-Manchester-United-History,0,0,2146,1,1,0,0,0.5,0.5,0,0
-2147,25,Sat,2022-02-12,Everton,0,Leeds United,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/5bfb9659/Everton-vs-Leeds-United-History,0,0,2147,1,1,0,0,0.5,0.5,0,0
-2148,25,Sat,2022-02-12,Tottenham,0,Wolves,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/361ca564/Wolverhampton-Wanderers-vs-Tottenham-Hotspur-History,0,0,2148,1,1,0,0,0.5,0.5,0,0
-2149,25,Sat,2022-02-12,Leicester City,0,West Ham,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/7c21e445/Leicester-City-vs-West-Ham-United-History,0,0,2149,1,1,0,0,0.5,0.5,0,0
-2150,26,Sat,2022-02-19,Leeds United,0,Manchester Utd,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/19538871/Leeds-United-vs-Manchester-United-History,0,0,2150,1,1,0,0,0.5,0.5,0,0
-2151,26,Sat,2022-02-19,Arsenal,0,Brentford,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/18bb7c10/Brentford-vs-Arsenal-History,0,0,2151,1,1,0,0,0.5,0.5,0,0
-2152,26,Sat,2022-02-19,Southampton,0,Everton,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/33c895d4/Everton-vs-Southampton-History,0,0,2152,1,1,0,0,0.5,0.5,0,0
-2153,26,Sat,2022-02-19,Aston Villa,0,Watford,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/2abfe087/Aston-Villa-vs-Watford-History,0,0,2153,1,1,0,0,0.5,0.5,0,0
-2154,26,Sat,2022-02-19,Manchester City,0,Tottenham,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/361ca564/Manchester-City-vs-Tottenham-Hotspur-History,0,0,2154,1,1,0,0,0.5,0.5,0,0
-2155,26,Sat,2022-02-19,Crystal Palace,0,Chelsea,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/47c64c55/Chelsea-vs-Crystal-Palace-History,0,0,2155,1,1,0,0,0.5,0.5,0,0
-2156,26,Sat,2022-02-19,West Ham,0,Newcastle Utd,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/7c21e445/Newcastle-United-vs-West-Ham-United-History,0,0,2156,1,1,0,0,0.5,0.5,0,0
-2157,26,Sat,2022-02-19,Wolves,0,Leicester City,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/8cec06e1/Leicester-City-vs-Wolverhampton-Wanderers-History,0,0,2157,1,1,0,0,0.5,0.5,0,0
-2158,26,Sat,2022-02-19,Brighton,0,Burnley,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/943e8050/Brighton-and-Hove-Albion-vs-Burnley-History,0,0,2158,1,1,0,0,0.5,0.5,0,0
-2159,26,Sat,2022-02-19,Liverpool,0,Norwich City,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/1c781004/Liverpool-vs-Norwich-City-History,0,0,2159,1,1,0,0,0.5,0.5,0,0
-2160,27,Sat,2022-02-26,Arsenal,0,Liverpool,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/18bb7c10/Liverpool-vs-Arsenal-History,0,0,2160,1,1,0,0,0.5,0.5,0,0
-2161,27,Sat,2022-02-26,Leeds United,0,Tottenham,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/361ca564/Leeds-United-vs-Tottenham-Hotspur-History,0,0,2161,1,1,0,0,0.5,0.5,0,0
-2162,27,Sat,2022-02-26,Chelsea,0,Leicester City,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/a2d435b3/Chelsea-vs-Leicester-City-History,0,0,2162,1,1,0,0,0.5,0.5,0,0
-2163,27,Sat,2022-02-26,Manchester Utd,0,Watford,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/2abfe087/19538871/Watford-vs-Manchester-United-History,0,0,2163,1,1,0,0,0.5,0.5,0,0
-2164,27,Sat,2022-02-26,West Ham,0,Wolves,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/7c21e445/Wolverhampton-Wanderers-vs-West-Ham-United-History,0,0,2164,1,1,0,0,0.5,0.5,0,0
-2165,27,Sat,2022-02-26,Crystal Palace,0,Burnley,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/943e8050/47c64c55/Burnley-vs-Crystal-Palace-History,0,0,2165,1,1,0,0,0.5,0.5,0,0
-2166,27,Sat,2022-02-26,Brentford,0,Newcastle Utd,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/b2b47a98/Brentford-vs-Newcastle-United-History,0,0,2166,1,1,0,0,0.5,0.5,0,0
-2167,27,Sat,2022-02-26,Everton,0,Manchester City,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/b8fd03ef/Everton-vs-Manchester-City-History,0,0,2167,1,1,0,0,0.5,0.5,0,0
-2168,27,Sat,2022-02-26,Brighton,0,Aston Villa,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/8602292d/Brighton-and-Hove-Albion-vs-Aston-Villa-History,0,0,2168,1,1,0,0,0.5,0.5,0,0
-2169,27,Sat,2022-02-26,Southampton,0,Norwich City,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/1c781004/Southampton-vs-Norwich-City-History,0,0,2169,1,1,0,0,0.5,0.5,0,0
-2170,28,Sat,2022-03-05,Tottenham,0,Everton,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/361ca564/Everton-vs-Tottenham-Hotspur-History,0,0,2170,1,1,0,0,0.5,0.5,0,0
-2171,28,Sat,2022-03-05,Aston Villa,0,Southampton,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/33c895d4/Aston-Villa-vs-Southampton-History,0,0,2171,1,1,0,0,0.5,0.5,0,0
-2172,28,Sat,2022-03-05,Newcastle Utd,0,Brighton,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/b2b47a98/Brighton-and-Hove-Albion-vs-Newcastle-United-History,0,0,2172,1,1,0,0,0.5,0.5,0,0
-2173,28,Sat,2022-03-05,Norwich City,0,Brentford,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/cd051869/1c781004/Brentford-vs-Norwich-City-History,0,0,2173,1,1,0,0,0.5,0.5,0,0
-2174,28,Sat,2022-03-05,Wolves,0,Crystal Palace,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/47c64c55/Wolverhampton-Wanderers-vs-Crystal-Palace-History,0,0,2174,1,1,0,0,0.5,0.5,0,0
-2175,28,Sat,2022-03-05,Manchester City,0,Manchester Utd,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/19538871/Manchester-Derby-Manchester-City-vs-Manchester-United-History,0,0,2175,1,1,0,0,0.5,0.5,0,0
-2176,28,Sat,2022-03-05,Liverpool,0,West Ham,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/7c21e445/Liverpool-vs-West-Ham-United-History,0,0,2176,1,1,0,0,0.5,0.5,0,0
-2177,28,Sat,2022-03-05,Leicester City,0,Leeds United,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/5bfb9659/Leicester-City-vs-Leeds-United-History,0,0,2177,1,1,0,0,0.5,0.5,0,0
-2178,28,Sat,2022-03-05,Watford,0,Arsenal,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/2abfe087/18bb7c10/Watford-vs-Arsenal-History,0,0,2178,1,1,0,0,0.5,0.5,0,0
-2179,28,Sat,2022-03-05,Burnley,0,Chelsea,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/943e8050/Chelsea-vs-Burnley-History,0,0,2179,1,1,0,0,0.5,0.5,0,0
-2180,29,Sat,2022-03-12,Leeds United,0,Norwich City,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/1c781004/Leeds-United-vs-Norwich-City-History,0,0,2180,1,1,0,0,0.5,0.5,0,0
-2181,29,Sat,2022-03-12,Chelsea,0,Newcastle Utd,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/b2b47a98/Chelsea-vs-Newcastle-United-History,0,0,2181,1,1,0,0,0.5,0.5,0,0
-2182,29,Sat,2022-03-12,Crystal Palace,0,Manchester City,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/47c64c55/Manchester-City-vs-Crystal-Palace-History,0,0,2182,1,1,0,0,0.5,0.5,0,0
-2183,29,Sat,2022-03-12,West Ham,0,Aston Villa,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/8602292d/7c21e445/Aston-Villa-vs-West-Ham-United-History,0,0,2183,1,1,0,0,0.5,0.5,0,0
-2184,29,Sat,2022-03-12,Brentford,0,Burnley,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/943e8050/Brentford-vs-Burnley-History,0,0,2184,1,1,0,0,0.5,0.5,0,0
-2185,29,Sat,2022-03-12,Everton,0,Wolves,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/8cec06e1/Everton-vs-Wolverhampton-Wanderers-History,0,0,2185,1,1,0,0,0.5,0.5,0,0
-2186,29,Sat,2022-03-12,Southampton,0,Watford,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/2abfe087/Southampton-vs-Watford-History,0,0,2186,1,1,0,0,0.5,0.5,0,0
-2187,29,Sat,2022-03-12,Brighton,0,Liverpool,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/822bd0ba/Brighton-and-Hove-Albion-vs-Liverpool-History,0,0,2187,1,1,0,0,0.5,0.5,0,0
-2188,29,Sat,2022-03-12,Arsenal,0,Leicester City,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/18bb7c10/Leicester-City-vs-Arsenal-History,0,0,2188,1,1,0,0,0.5,0.5,0,0
-2189,29,Sat,2022-03-12,Manchester Utd,0,Tottenham,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/361ca564/19538871/Tottenham-Hotspur-vs-Manchester-United-History,0,0,2189,1,1,0,0,0.5,0.5,0,0
-2190,30,Sat,2022-03-19,Newcastle Utd,0,Crystal Palace,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/47c64c55/Newcastle-United-vs-Crystal-Palace-History,0,0,2190,1,1,0,0,0.5,0.5,0,0
-2191,30,Sat,2022-03-19,Watford,0,Everton,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/2abfe087/Everton-vs-Watford-History,0,0,2191,1,1,0,0,0.5,0.5,0,0
-2192,30,Sat,2022-03-19,Norwich City,0,Chelsea,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/1c781004/Chelsea-vs-Norwich-City-History,0,0,2192,1,1,0,0,0.5,0.5,0,0
-2193,30,Sat,2022-03-19,Aston Villa,0,Arsenal,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/18bb7c10/Aston-Villa-vs-Arsenal-History,0,0,2193,1,1,0,0,0.5,0.5,0,0
-2194,30,Sat,2022-03-19,Leicester City,0,Brentford,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/a2d435b3/Brentford-vs-Leicester-City-History,0,0,2194,1,1,0,0,0.5,0.5,0,0
-2195,30,Sat,2022-03-19,Burnley,0,Southampton,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/33c895d4/Burnley-vs-Southampton-History,0,0,2195,1,1,0,0,0.5,0.5,0,0
-2196,30,Sat,2022-03-19,Tottenham,0,West Ham,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/361ca564/West-Ham-United-vs-Tottenham-Hotspur-History,0,0,2196,1,1,0,0,0.5,0.5,0,0
-2197,30,Sat,2022-03-19,Manchester City,0,Brighton,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/b8fd03ef/Brighton-and-Hove-Albion-vs-Manchester-City-History,0,0,2197,1,1,0,0,0.5,0.5,0,0
-2198,30,Sat,2022-03-19,Wolves,0,Leeds United,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/5bfb9659/Wolverhampton-Wanderers-vs-Leeds-United-History,0,0,2198,1,1,0,0,0.5,0.5,0,0
-2199,30,Sat,2022-03-19,Liverpool,0,Manchester Utd,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/19538871/North-West-Derby-Liverpool-vs-Manchester-United-History,0,0,2199,1,1,0,0,0.5,0.5,0,0
-2200,31,Sat,2022-04-02,Burnley,0,Manchester City,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/943e8050/Manchester-City-vs-Burnley-History,0,0,2200,1,1,0,0,0.5,0.5,0,0
-2201,31,Sat,2022-04-02,Crystal Palace,0,Arsenal,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/18bb7c10/Crystal-Palace-vs-Arsenal-History,0,0,2201,1,1,0,0,0.5,0.5,0,0
-2202,31,Sat,2022-04-02,Manchester Utd,0,Leicester City,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/19538871/Leicester-City-vs-Manchester-United-History,0,0,2202,1,1,0,0,0.5,0.5,0,0
-2203,31,Sat,2022-04-02,Liverpool,0,Watford,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/2abfe087/Liverpool-vs-Watford-History,0,0,2203,1,1,0,0,0.5,0.5,0,0
-2204,31,Sat,2022-04-02,Brighton,0,Norwich City,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/1c781004/Brighton-and-Hove-Albion-vs-Norwich-City-History,0,0,2204,1,1,0,0,0.5,0.5,0,0
-2205,31,Sat,2022-04-02,Chelsea,0,Brentford,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/cd051869/Chelsea-vs-Brentford-History,0,0,2205,1,1,0,0,0.5,0.5,0,0
-2206,31,Sat,2022-04-02,Wolves,0,Aston Villa,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/8602292d/Wolverhampton-Wanderers-vs-Aston-Villa-History,0,0,2206,1,1,0,0,0.5,0.5,0,0
-2207,31,Sat,2022-04-02,West Ham,0,Everton,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/7c21e445/Everton-vs-West-Ham-United-History,0,0,2207,1,1,0,0,0.5,0.5,0,0
-2208,31,Sat,2022-04-02,Tottenham,0,Newcastle Utd,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/361ca564/Newcastle-United-vs-Tottenham-Hotspur-History,0,0,2208,1,1,0,0,0.5,0.5,0,0
-2209,31,Sat,2022-04-02,Leeds United,0,Southampton,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/33c895d4/Leeds-United-vs-Southampton-History,0,0,2209,1,1,0,0,0.5,0.5,0,0
-2210,32,Sat,2022-04-09,Everton,0,Manchester Utd,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/19538871/Everton-vs-Manchester-United-History,0,0,2210,1,1,0,0,0.5,0.5,0,0
-2211,32,Sat,2022-04-09,Norwich City,0,Burnley,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/943e8050/1c781004/Burnley-vs-Norwich-City-History,0,0,2211,1,1,0,0,0.5,0.5,0,0
-2212,32,Sat,2022-04-09,Leicester City,0,Crystal Palace,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/47c64c55/Leicester-City-vs-Crystal-Palace-History,0,0,2212,1,1,0,0,0.5,0.5,0,0
-2213,32,Sat,2022-04-09,Newcastle Utd,0,Wolves,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/8cec06e1/Newcastle-United-vs-Wolverhampton-Wanderers-History,0,0,2213,1,1,0,0,0.5,0.5,0,0
-2214,32,Sat,2022-04-09,Manchester City,0,Liverpool,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/822bd0ba/Manchester-City-vs-Liverpool-History,0,0,2214,1,1,0,0,0.5,0.5,0,0
-2215,32,Sat,2022-04-09,Arsenal,0,Brighton,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/18bb7c10/Brighton-and-Hove-Albion-vs-Arsenal-History,0,0,2215,1,1,0,0,0.5,0.5,0,0
-2216,32,Sat,2022-04-09,Aston Villa,0,Tottenham,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/361ca564/Aston-Villa-vs-Tottenham-Hotspur-History,0,0,2216,1,1,0,0,0.5,0.5,0,0
-2217,32,Sat,2022-04-09,Watford,0,Leeds United,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/2abfe087/Leeds-United-vs-Watford-History,0,0,2217,1,1,0,0,0.5,0.5,0,0
-2218,32,Sat,2022-04-09,Southampton,0,Chelsea,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/33c895d4/Chelsea-vs-Southampton-History,0,0,2218,1,1,0,0,0.5,0.5,0,0
-2219,32,Sat,2022-04-09,Brentford,0,West Ham,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/7c21e445/Brentford-vs-West-Ham-United-History,0,0,2219,1,1,0,0,0.5,0.5,0,0
-2220,33,Sat,2022-04-16,Tottenham,0,Brighton,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/361ca564/Brighton-and-Hove-Albion-vs-Tottenham-Hotspur-History,0,0,2220,1,1,0,0,0.5,0.5,0,0
-2221,33,Sat,2022-04-16,Aston Villa,0,Liverpool,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/822bd0ba/Aston-Villa-vs-Liverpool-History,0,0,2221,1,1,0,0,0.5,0.5,0,0
-2222,33,Sat,2022-04-16,Newcastle Utd,0,Leicester City,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/a2d435b3/Newcastle-United-vs-Leicester-City-History,0,0,2222,1,1,0,0,0.5,0.5,0,0
-2223,33,Sat,2022-04-16,West Ham,0,Burnley,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/7c21e445/Burnley-vs-West-Ham-United-History,0,0,2223,1,1,0,0,0.5,0.5,0,0
-2224,33,Sat,2022-04-16,Leeds United,0,Chelsea,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/5bfb9659/Chelsea-vs-Leeds-United-History,0,0,2224,1,1,0,0,0.5,0.5,0,0
-2225,33,Sat,2022-04-16,Manchester Utd,0,Norwich City,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/1c781004/19538871/Norwich-City-vs-Manchester-United-History,0,0,2225,1,1,0,0,0.5,0.5,0,0
-2226,33,Sat,2022-04-16,Wolves,0,Manchester City,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/8cec06e1/Manchester-City-vs-Wolverhampton-Wanderers-History,0,0,2226,1,1,0,0,0.5,0.5,0,0
-2227,33,Sat,2022-04-16,Southampton,0,Arsenal,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/18bb7c10/Southampton-vs-Arsenal-History,0,0,2227,1,1,0,0,0.5,0.5,0,0
-2228,33,Sat,2022-04-16,Everton,0,Crystal Palace,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/47c64c55/Everton-vs-Crystal-Palace-History,0,0,2228,1,1,0,0,0.5,0.5,0,0
-2229,33,Sat,2022-04-16,Watford,0,Brentford,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/2abfe087/Brentford-vs-Watford-History,0,0,2229,1,1,0,0,0.5,0.5,0,0
-2230,34,Sat,2022-04-23,Chelsea,0,West Ham,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/7c21e445/Chelsea-vs-West-Ham-United-History,0,0,2230,1,1,0,0,0.5,0.5,0,0
-2231,34,Sat,2022-04-23,Burnley,0,Wolves,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/8cec06e1/Burnley-vs-Wolverhampton-Wanderers-History,0,0,2231,1,1,0,0,0.5,0.5,0,0
-2232,34,Sat,2022-04-23,Brighton,0,Southampton,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/33c895d4/Brighton-and-Hove-Albion-vs-Southampton-History,0,0,2232,1,1,0,0,0.5,0.5,0,0
-2233,34,Sat,2022-04-23,Arsenal,0,Manchester Utd,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/19538871/18bb7c10/Manchester-United-vs-Arsenal-History,0,0,2233,1,1,0,0,0.5,0.5,0,0
-2234,34,Sat,2022-04-23,Leicester City,0,Aston Villa,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/8602292d/Leicester-City-vs-Aston-Villa-History,0,0,2234,1,1,0,0,0.5,0.5,0,0
-2235,34,Sat,2022-04-23,Manchester City,0,Watford,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/2abfe087/Manchester-City-vs-Watford-History,0,0,2235,1,1,0,0,0.5,0.5,0,0
-2236,34,Sat,2022-04-23,Crystal Palace,0,Leeds United,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/47c64c55/Leeds-United-vs-Crystal-Palace-History,0,0,2236,1,1,0,0,0.5,0.5,0,0
-2237,34,Sat,2022-04-23,Norwich City,0,Newcastle Utd,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/1c781004/Newcastle-United-vs-Norwich-City-History,0,0,2237,1,1,0,0,0.5,0.5,0,0
-2238,34,Sat,2022-04-23,Brentford,0,Tottenham,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/361ca564/Brentford-vs-Tottenham-Hotspur-History,0,0,2238,1,1,0,0,0.5,0.5,0,0
-2239,34,Sat,2022-04-23,Liverpool,0,Everton,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/822bd0ba/Merseyside-Derby-Everton-vs-Liverpool-History,0,0,2239,1,1,0,0,0.5,0.5,0,0
-2240,35,Sat,2022-04-30,Southampton,0,Crystal Palace,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/33c895d4/Crystal-Palace-vs-Southampton-History,0,0,2240,1,1,0,0,0.5,0.5,0,0
-2241,35,Sat,2022-04-30,Everton,0,Chelsea,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/cff3d9bb/Everton-vs-Chelsea-History,0,0,2241,1,1,0,0,0.5,0.5,0,0
-2242,35,Sat,2022-04-30,Tottenham,0,Leicester City,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/361ca564/Leicester-City-vs-Tottenham-Hotspur-History,0,0,2242,1,1,0,0,0.5,0.5,0,0
-2243,35,Sat,2022-04-30,Manchester Utd,0,Brentford,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/cd051869/19538871/Brentford-vs-Manchester-United-History,0,0,2243,1,1,0,0,0.5,0.5,0,0
-2244,35,Sat,2022-04-30,Leeds United,0,Manchester City,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/5bfb9659/Manchester-City-vs-Leeds-United-History,0,0,2244,1,1,0,0,0.5,0.5,0,0
-2245,35,Sat,2022-04-30,Watford,0,Burnley,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/2abfe087/Burnley-vs-Watford-History,0,0,2245,1,1,0,0,0.5,0.5,0,0
-2246,35,Sat,2022-04-30,Aston Villa,0,Norwich City,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/1c781004/Aston-Villa-vs-Norwich-City-History,0,0,2246,1,1,0,0,0.5,0.5,0,0
-2247,35,Sat,2022-04-30,Wolves,0,Brighton,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/8cec06e1/Brighton-and-Hove-Albion-vs-Wolverhampton-Wanderers-History,0,0,2247,1,1,0,0,0.5,0.5,0,0
-2248,35,Sat,2022-04-30,West Ham,0,Arsenal,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/18bb7c10/West-Ham-United-vs-Arsenal-History,0,0,2248,1,1,0,0,0.5,0.5,0,0
-2249,35,Sat,2022-04-30,Newcastle Utd,0,Liverpool,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/822bd0ba/Newcastle-United-vs-Liverpool-History,0,0,2249,1,1,0,0,0.5,0.5,0,0
-2250,36,Sat,2022-05-07,Leicester City,0,Everton,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/a2d435b3/Everton-vs-Leicester-City-History,0,0,2250,1,1,0,0,0.5,0.5,0,0
-2251,36,Sat,2022-05-07,Brentford,0,Southampton,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/33c895d4/Brentford-vs-Southampton-History,0,0,2251,1,1,0,0,0.5,0.5,0,0
-2252,36,Sat,2022-05-07,Manchester City,0,Newcastle Utd,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/b2b47a98/Manchester-City-vs-Newcastle-United-History,0,0,2252,1,1,0,0,0.5,0.5,0,0
-2253,36,Sat,2022-05-07,Brighton,0,Manchester Utd,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/19538871/Brighton-and-Hove-Albion-vs-Manchester-United-History,0,0,2253,1,1,0,0,0.5,0.5,0,0
-2254,36,Sat,2022-05-07,Norwich City,0,West Ham,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/1c781004/West-Ham-United-vs-Norwich-City-History,0,0,2254,1,1,0,0,0.5,0.5,0,0
-2255,36,Sat,2022-05-07,Crystal Palace,0,Watford,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/2abfe087/Crystal-Palace-vs-Watford-History,0,0,2255,1,1,0,0,0.5,0.5,0,0
-2256,36,Sat,2022-05-07,Liverpool,0,Tottenham,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/361ca564/Liverpool-vs-Tottenham-Hotspur-History,0,0,2256,1,1,0,0,0.5,0.5,0,0
-2257,36,Sat,2022-05-07,Chelsea,0,Wolves,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/8cec06e1/Chelsea-vs-Wolverhampton-Wanderers-History,0,0,2257,1,1,0,0,0.5,0.5,0,0
-2258,36,Sat,2022-05-07,Burnley,0,Aston Villa,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/8602292d/Burnley-vs-Aston-Villa-History,0,0,2258,1,1,0,0,0.5,0.5,0,0
-2259,36,Sat,2022-05-07,Arsenal,0,Leeds United,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/18bb7c10/Leeds-United-vs-Arsenal-History,0,0,2259,1,1,0,0,0.5,0.5,0,0
-2260,37,Sun,2022-05-15,Everton,0,Brentford,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/cd051869/Everton-vs-Brentford-History,0,0,2260,1,1,0,0,0.5,0.5,0,0
-2261,37,Sun,2022-05-15,Manchester Utd,0,Chelsea,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/19538871/Chelsea-vs-Manchester-United-History,0,0,2261,1,1,0,0,0.5,0.5,0,0
-2262,37,Sun,2022-05-15,Leeds United,0,Brighton,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/5bfb9659/Brighton-and-Hove-Albion-vs-Leeds-United-History,0,0,2262,1,1,0,0,0.5,0.5,0,0
-2263,37,Sun,2022-05-15,Aston Villa,0,Crystal Palace,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/47c64c55/Aston-Villa-vs-Crystal-Palace-History,0,0,2263,1,1,0,0,0.5,0.5,0,0
-2264,37,Sun,2022-05-15,Watford,0,Leicester City,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/2abfe087/Leicester-City-vs-Watford-History,0,0,2264,1,1,0,0,0.5,0.5,0,0
-2265,37,Sun,2022-05-15,Southampton,0,Liverpool,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/33c895d4/Liverpool-vs-Southampton-History,0,0,2265,1,1,0,0,0.5,0.5,0,0
-2266,37,Sun,2022-05-15,West Ham,0,Manchester City,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/7c21e445/Manchester-City-vs-West-Ham-United-History,0,0,2266,1,1,0,0,0.5,0.5,0,0
-2267,37,Sun,2022-05-15,Wolves,0,Norwich City,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/1c781004/Wolverhampton-Wanderers-vs-Norwich-City-History,0,0,2267,1,1,0,0,0.5,0.5,0,0
-2268,37,Sun,2022-05-15,Newcastle Utd,0,Arsenal,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/18bb7c10/Newcastle-United-vs-Arsenal-History,0,0,2268,1,1,0,0,0.5,0.5,0,0
-2269,37,Sun,2022-05-15,Tottenham,0,Burnley,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/361ca564/Burnley-vs-Tottenham-Hotspur-History,0,0,2269,1,1,0,0,0.5,0.5,0,0
-2270,38,Sun,2022-05-22,Leicester City,0,Southampton,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/33c895d4/Leicester-City-vs-Southampton-History,0,0,2270,1,1,0,0,0.5,0.5,0,0
-2271,38,Sun,2022-05-22,Norwich City,0,Tottenham,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/361ca564/1c781004/Tottenham-Hotspur-vs-Norwich-City-History,0,0,2271,1,1,0,0,0.5,0.5,0,0
-2272,38,Sun,2022-05-22,Brighton,0,West Ham,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/7c21e445/Brighton-and-Hove-Albion-vs-West-Ham-United-History,0,0,2272,1,1,0,0,0.5,0.5,0,0
-2273,38,Sun,2022-05-22,Brentford,0,Leeds United,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/5bfb9659/Brentford-vs-Leeds-United-History,0,0,2273,1,1,0,0,0.5,0.5,0,0
-2274,38,Sun,2022-05-22,Liverpool,0,Wolves,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/822bd0ba/Wolverhampton-Wanderers-vs-Liverpool-History,0,0,2274,1,1,0,0,0.5,0.5,0,0
-2275,38,Sun,2022-05-22,Manchester City,0,Aston Villa,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/8602292d/Manchester-City-vs-Aston-Villa-History,0,0,2275,1,1,0,0,0.5,0.5,0,0
-2276,38,Sun,2022-05-22,Burnley,0,Newcastle Utd,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/943e8050/Newcastle-United-vs-Burnley-History,0,0,2276,1,1,0,0,0.5,0.5,0,0
-2277,38,Sun,2022-05-22,Chelsea,0,Watford,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/2abfe087/Chelsea-vs-Watford-History,0,0,2277,1,1,0,0,0.5,0.5,0,0
-2278,38,Sun,2022-05-22,Crystal Palace,0,Manchester Utd,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/19538871/Crystal-Palace-vs-Manchester-United-History,0,0,2278,1,1,0,0,0.5,0.5,0,0
-2279,38,Sun,2022-05-22,Arsenal,0,Everton,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/18bb7c10/Everton-vs-Arsenal-History,0,0,2279,1,1,0,0,0.5,0.5,0,0
+season,gameweek,dayofweek,date,h_Team,score,a_Team,att,stadium,ref,report_link,h_scored,a_scored,id_game,h_r_before,a_r_before,h_r_after,a_r_after,h_result,a_result,h_score_diff,a_score_diff
+2,13,Sun,2021-11-28,Burnley,0,Tottenham,0,Turf Moor,Peter Bankes,0,0,0,505,1,1,0,0,0.5,0.5,0,0
+2,16,Fri,2021-12-10,Brentford,0,Watford,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/2abfe087/Brentford-vs-Watford-History,0,0,530,1,1,0,0,0.5,0.5,0,0
+2,16,Sat,2021-12-11,Manchester City,0,Wolves,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/8cec06e1/Manchester-City-vs-Wolverhampton-Wanderers-History,0,0,531,1,1,0,0,0.5,0.5,0,0
+2,16,Sat,2021-12-11,Chelsea,0,Leeds United,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/5bfb9659/Chelsea-vs-Leeds-United-History,0,0,532,1,1,0,0,0.5,0.5,0,0
+2,16,Sat,2021-12-11,Liverpool,0,Aston Villa,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/8602292d/822bd0ba/Aston-Villa-vs-Liverpool-History,0,0,533,1,1,0,0,0.5,0.5,0,0
+2,16,Sat,2021-12-11,Arsenal,0,Southampton,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/18bb7c10/Southampton-vs-Arsenal-History,0,0,534,1,1,0,0,0.5,0.5,0,0
+2,16,Sat,2021-12-11,Norwich City,0,Manchester Utd,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/1c781004/19538871/Norwich-City-vs-Manchester-United-History,0,0,535,1,1,0,0,0.5,0.5,0,0
+2,16,Sun,2021-12-12,Burnley,0,West Ham,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/7c21e445/Burnley-vs-West-Ham-United-History,0,0,536,1,1,0,0,0.5,0.5,0,0
+2,16,Sun,2021-12-12,Leicester City,0,Newcastle Utd,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/a2d435b3/Newcastle-United-vs-Leicester-City-History,0,0,537,1,1,0,0,0.5,0.5,0,0
+2,16,Sun,2021-12-12,Brighton,0,Tottenham,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/361ca564/Brighton-and-Hove-Albion-vs-Tottenham-Hotspur-History,0,0,538,1,1,0,0,0.5,0.5,0,0
+2,16,Sun,2021-12-12,Crystal Palace,0,Everton,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/47c64c55/Everton-vs-Crystal-Palace-History,0,0,539,1,1,0,0,0.5,0.5,0,0
+2,17,Tue,2021-12-14,Brentford,0,Manchester Utd,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/19538871/Brentford-vs-Manchester-United-History,0,0,540,1,1,0,0,0.5,0.5,0,0
+2,17,Tue,2021-12-14,Norwich City,0,Aston Villa,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/8602292d/1c781004/Aston-Villa-vs-Norwich-City-History,0,0,541,1,1,0,0,0.5,0.5,0,0
+2,17,Tue,2021-12-14,Manchester City,0,Leeds United,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/5bfb9659/Manchester-City-vs-Leeds-United-History,0,0,542,1,1,0,0,0.5,0.5,0,0
+2,17,Wed,2021-12-15,Arsenal,0,West Ham,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/18bb7c10/West-Ham-United-vs-Arsenal-History,0,0,543,1,1,0,0,0.5,0.5,0,0
+2,17,Wed,2021-12-15,Burnley,0,Watford,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/2abfe087/Burnley-vs-Watford-History,0,0,544,1,1,0,0,0.5,0.5,0,0
+2,17,Wed,2021-12-15,Crystal Palace,0,Southampton,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/33c895d4/Crystal-Palace-vs-Southampton-History,0,0,545,1,1,0,0,0.5,0.5,0,0
+2,17,Wed,2021-12-15,Brighton,0,Wolves,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/8cec06e1/Brighton-and-Hove-Albion-vs-Wolverhampton-Wanderers-History,0,0,546,1,1,0,0,0.5,0.5,0,0
+2,17,Thu,2021-12-16,Liverpool,0,Newcastle Utd,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/822bd0ba/Newcastle-United-vs-Liverpool-History,0,0,547,1,1,0,0,0.5,0.5,0,0
+2,17,Thu,2021-12-16,Chelsea,0,Everton,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/cff3d9bb/Everton-vs-Chelsea-History,0,0,548,1,1,0,0,0.5,0.5,0,0
+2,17,Thu,2021-12-16,Leicester City,0,Tottenham,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/361ca564/Leicester-City-vs-Tottenham-Hotspur-History,0,0,549,1,1,0,0,0.5,0.5,0,0
+2,18,Sat,2021-12-18,Manchester Utd,0,Brighton,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/19538871/Brighton-and-Hove-Albion-vs-Manchester-United-History,0,0,550,1,1,0,0,0.5,0.5,0,0
+2,18,Sat,2021-12-18,Southampton,0,Brentford,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/33c895d4/Brentford-vs-Southampton-History,0,0,551,1,1,0,0,0.5,0.5,0,0
+2,18,Sat,2021-12-18,West Ham,0,Norwich City,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/1c781004/West-Ham-United-vs-Norwich-City-History,0,0,552,1,1,0,0,0.5,0.5,0,0
+2,18,Sat,2021-12-18,Watford,0,Crystal Palace,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/2abfe087/Crystal-Palace-vs-Watford-History,0,0,553,1,1,0,0,0.5,0.5,0,0
+2,18,Sat,2021-12-18,Aston Villa,0,Burnley,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/943e8050/8602292d/Burnley-vs-Aston-Villa-History,0,0,554,1,1,0,0,0.5,0.5,0,0
+2,18,Sat,2021-12-18,Leeds United,0,Arsenal,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/18bb7c10/Leeds-United-vs-Arsenal-History,0,0,555,1,1,0,0,0.5,0.5,0,0
+2,18,Sun,2021-12-19,Tottenham,0,Liverpool,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/361ca564/Liverpool-vs-Tottenham-Hotspur-History,0,0,556,1,1,0,0,0.5,0.5,0,0
+2,18,Sun,2021-12-19,Everton,0,Leicester City,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/a2d435b3/Everton-vs-Leicester-City-History,0,0,557,1,1,0,0,0.5,0.5,0,0
+2,18,Sun,2021-12-19,Newcastle Utd,0,Manchester City,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/b2b47a98/Manchester-City-vs-Newcastle-United-History,0,0,558,1,1,0,0,0.5,0.5,0,0
+2,18,Sun,2021-12-19,Wolves,0,Chelsea,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/8cec06e1/Chelsea-vs-Wolverhampton-Wanderers-History,0,0,559,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Wolves,0,Watford,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/2abfe087/Wolverhampton-Wanderers-vs-Watford-History,0,0,560,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Liverpool,0,Leeds United,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/5bfb9659/Liverpool-vs-Leeds-United-History,0,0,561,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Manchester City,0,Leicester City,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/a2d435b3/Manchester-City-vs-Leicester-City-History,0,0,562,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Norwich City,0,Arsenal,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/1c781004/18bb7c10/Norwich-City-vs-Arsenal-History,0,0,563,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,West Ham,0,Southampton,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/33c895d4/West-Ham-United-vs-Southampton-History,0,0,564,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Burnley,0,Everton,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/943e8050/Everton-vs-Burnley-History,0,0,565,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Tottenham,0,Crystal Palace,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/361ca564/Crystal-Palace-vs-Tottenham-Hotspur-History,0,0,566,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Aston Villa,0,Chelsea,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/8602292d/Chelsea-vs-Aston-Villa-History,0,0,567,1,1,0,0,0.5,0.5,0,0
+2,19,Sun,2021-12-26,Brighton,0,Brentford,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/cd051869/Brighton-and-Hove-Albion-vs-Brentford-History,0,0,568,1,1,0,0,0.5,0.5,0,0
+2,19,Mon,2021-12-27,Newcastle Utd,0,Manchester Utd,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/19538871/Newcastle-United-vs-Manchester-United-History,0,0,569,1,1,0,0,0.5,0.5,0,0
+2,20,Tue,2021-12-28,Arsenal,0,Wolves,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/18bb7c10/Wolverhampton-Wanderers-vs-Arsenal-History,0,0,570,1,1,0,0,0.5,0.5,0,0
+2,20,Tue,2021-12-28,Leicester City,0,Liverpool,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/822bd0ba/Leicester-City-vs-Liverpool-History,0,0,571,1,1,0,0,0.5,0.5,0,0
+2,20,Tue,2021-12-28,Crystal Palace,0,Norwich City,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/1c781004/Crystal-Palace-vs-Norwich-City-History,0,0,572,1,1,0,0,0.5,0.5,0,0
+2,20,Tue,2021-12-28,Watford,0,West Ham,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/2abfe087/West-Ham-United-vs-Watford-History,0,0,573,1,1,0,0,0.5,0.5,0,0
+2,20,Tue,2021-12-28,Southampton,0,Tottenham,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/33c895d4/Tottenham-Hotspur-vs-Southampton-History,0,0,574,1,1,0,0,0.5,0.5,0,0
+2,20,Tue,2021-12-28,Leeds United,0,Aston Villa,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/8602292d/5bfb9659/Aston-Villa-vs-Leeds-United-History,0,0,575,1,1,0,0,0.5,0.5,0,0
+2,20,Wed,2021-12-29,Brentford,0,Manchester City,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/b8fd03ef/Brentford-vs-Manchester-City-History,0,0,576,1,1,0,0,0.5,0.5,0,0
+2,20,Wed,2021-12-29,Chelsea,0,Brighton,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/cff3d9bb/Brighton-and-Hove-Albion-vs-Chelsea-History,0,0,577,1,1,0,0,0.5,0.5,0,0
+2,20,Thu,2021-12-30,Everton,0,Newcastle Utd,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/b2b47a98/Everton-vs-Newcastle-United-History,0,0,578,1,1,0,0,0.5,0.5,0,0
+2,20,Thu,2021-12-30,Manchester Utd,0,Burnley,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/943e8050/19538871/Burnley-vs-Manchester-United-History,0,0,579,1,1,0,0,0.5,0.5,0,0
+2,21,Sat,2022-01-01,Arsenal,0,Manchester City,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/18bb7c10/Manchester-City-vs-Arsenal-History,0,0,580,1,1,0,0,0.5,0.5,0,0
+2,21,Sat,2022-01-01,Leicester City,0,Norwich City,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/1c781004/Leicester-City-vs-Norwich-City-History,0,0,581,1,1,0,0,0.5,0.5,0,0
+2,21,Sat,2022-01-01,Watford,0,Tottenham,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/2abfe087/Tottenham-Hotspur-vs-Watford-History,0,0,582,1,1,0,0,0.5,0.5,0,0
+2,21,Sat,2022-01-01,Crystal Palace,0,West Ham,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/47c64c55/West-Ham-United-vs-Crystal-Palace-History,0,0,583,1,1,0,0,0.5,0.5,0,0
+2,21,Sun,2022-01-02,Southampton,0,Newcastle Utd,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/33c895d4/Newcastle-United-vs-Southampton-History,0,0,584,1,1,0,0,0.5,0.5,0,0
+2,21,Sun,2022-01-02,Chelsea,0,Liverpool,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/822bd0ba/Chelsea-vs-Liverpool-History,0,0,585,1,1,0,0,0.5,0.5,0,0
+2,21,Sun,2022-01-02,Leeds United,0,Burnley,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/943e8050/5bfb9659/Burnley-vs-Leeds-United-History,0,0,586,1,1,0,0,0.5,0.5,0,0
+2,21,Sun,2022-01-02,Brentford,0,Aston Villa,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/8602292d/Brentford-vs-Aston-Villa-History,0,0,587,1,1,0,0,0.5,0.5,0,0
+2,21,Sun,2022-01-02,Everton,0,Brighton,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/d07537b9/Everton-vs-Brighton-and-Hove-Albion-History,0,0,588,1,1,0,0,0.5,0.5,0,0
+2,21,Mon,2022-01-03,Manchester Utd,0,Wolves,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/19538871/Wolverhampton-Wanderers-vs-Manchester-United-History,0,0,589,1,1,0,0,0.5,0.5,0,0
+2,22,Fri,2022-01-14,Brighton,0,Crystal Palace,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/47c64c55/Brighton-and-Hove-Albion-vs-Crystal-Palace-History,0,0,590,1,1,0,0,0.5,0.5,0,0
+2,22,Sat,2022-01-15,Manchester City,0,Chelsea,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/b8fd03ef/Chelsea-vs-Manchester-City-History,0,0,591,1,1,0,0,0.5,0.5,0,0
+2,22,Sat,2022-01-15,Liverpool,0,Brentford,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/cd051869/822bd0ba/Brentford-vs-Liverpool-History,0,0,592,1,1,0,0,0.5,0.5,0,0
+2,22,Sat,2022-01-15,Newcastle Utd,0,Watford,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/2abfe087/Newcastle-United-vs-Watford-History,0,0,593,1,1,0,0,0.5,0.5,0,0
+2,22,Sat,2022-01-15,Wolves,0,Southampton,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/33c895d4/Wolverhampton-Wanderers-vs-Southampton-History,0,0,594,1,1,0,0,0.5,0.5,0,0
+2,22,Sat,2022-01-15,Norwich City,0,Everton,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/1c781004/Everton-vs-Norwich-City-History,0,0,595,1,1,0,0,0.5,0.5,0,0
+2,22,Sat,2022-01-15,Burnley,0,Leicester City,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/943e8050/Leicester-City-vs-Burnley-History,0,0,596,1,1,0,0,0.5,0.5,0,0
+2,22,Sat,2022-01-15,Aston Villa,0,Manchester Utd,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/19538871/Aston-Villa-vs-Manchester-United-History,0,0,597,1,1,0,0,0.5,0.5,0,0
+2,22,Sun,2022-01-16,West Ham,0,Leeds United,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/5bfb9659/West-Ham-United-vs-Leeds-United-History,0,0,598,1,1,0,0,0.5,0.5,0,0
+2,22,Sun,2022-01-16,Tottenham,0,Arsenal,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/18bb7c10/North-London-Derby-Tottenham-Hotspur-vs-Arsenal-History,0,0,599,1,1,0,0,0.5,0.5,0,0
+2,23,Fri,2022-01-21,Watford,0,Norwich City,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/2abfe087/1c781004/Watford-vs-Norwich-City-History,0,0,600,1,1,0,0,0.5,0.5,0,0
+2,23,Sat,2022-01-22,Arsenal,0,Burnley,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/18bb7c10/Burnley-vs-Arsenal-History,0,0,601,1,1,0,0,0.5,0.5,0,0
+2,23,Sat,2022-01-22,Leicester City,0,Brighton,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/a2d435b3/Brighton-and-Hove-Albion-vs-Leicester-City-History,0,0,602,1,1,0,0,0.5,0.5,0,0
+2,23,Sat,2022-01-22,Leeds United,0,Newcastle Utd,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/5bfb9659/Newcastle-United-vs-Leeds-United-History,0,0,603,1,1,0,0,0.5,0.5,0,0
+2,23,Sat,2022-01-22,Manchester Utd,0,West Ham,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/19538871/West-Ham-United-vs-Manchester-United-History,0,0,604,1,1,0,0,0.5,0.5,0,0
+2,23,Sat,2022-01-22,Southampton,0,Manchester City,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/33c895d4/Manchester-City-vs-Southampton-History,0,0,605,1,1,0,0,0.5,0.5,0,0
+2,23,Sat,2022-01-22,Everton,0,Aston Villa,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/8602292d/Everton-vs-Aston-Villa-History,0,0,606,1,1,0,0,0.5,0.5,0,0
+2,23,Sat,2022-01-22,Brentford,0,Wolves,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/8cec06e1/Brentford-vs-Wolverhampton-Wanderers-History,0,0,607,1,1,0,0,0.5,0.5,0,0
+2,23,Sun,2022-01-23,Crystal Palace,0,Liverpool,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/47c64c55/Liverpool-vs-Crystal-Palace-History,0,0,608,1,1,0,0,0.5,0.5,0,0
+2,23,Sun,2022-01-23,Chelsea,0,Tottenham,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/361ca564/Chelsea-vs-Tottenham-Hotspur-History,0,0,609,1,1,0,0,0.5,0.5,0,0
+2,24,Tue,2022-02-08,Wolves,0,Arsenal,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/18bb7c10/Wolverhampton-Wanderers-vs-Arsenal-History,0,0,610,1,1,0,0,0.5,0.5,0,0
+2,24,Tue,2022-02-08,West Ham,0,Watford,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/2abfe087/West-Ham-United-vs-Watford-History,0,0,611,1,1,0,0,0.5,0.5,0,0
+2,24,Tue,2022-02-08,Norwich City,0,Crystal Palace,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/1c781004/Crystal-Palace-vs-Norwich-City-History,0,0,612,1,1,0,0,0.5,0.5,0,0
+2,24,Tue,2022-02-08,Brighton,0,Chelsea,0,The American Express Community Stadium,0,0,0,0,613,1,1,0,0,0.5,0.5,0,0
+2,24,Tue,2022-02-08,Burnley,0,Manchester Utd,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/19538871/Burnley-vs-Manchester-United-History,0,0,614,1,1,0,0,0.5,0.5,0,0
+2,24,Tue,2022-02-08,Aston Villa,0,Leeds United,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/5bfb9659/Aston-Villa-vs-Leeds-United-History,0,0,615,1,1,0,0,0.5,0.5,0,0
+2,24,Wed,2022-02-09,Tottenham,0,Southampton,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/361ca564/33c895d4/Tottenham-Hotspur-vs-Southampton-History,0,0,616,1,1,0,0,0.5,0.5,0,0
+2,24,Wed,2022-02-09,Newcastle Utd,0,Everton,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/b2b47a98/Everton-vs-Newcastle-United-History,0,0,617,1,1,0,0,0.5,0.5,0,0
+2,24,Wed,2022-02-09,Manchester City,0,Brentford,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/b8fd03ef/Brentford-vs-Manchester-City-History,0,0,618,1,1,0,0,0.5,0.5,0,0
+2,24,Wed,2022-02-09,Liverpool,0,Leicester City,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/822bd0ba/Leicester-City-vs-Liverpool-History,0,0,619,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Chelsea,0,Arsenal,0,Stamford Bridge,0,0,0,0,620,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Norwich City,0,Manchester City,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/1c781004/Manchester-City-vs-Norwich-City-History,0,0,621,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Watford,0,Brighton,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/2abfe087/Brighton-and-Hove-Albion-vs-Watford-History,0,0,622,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Brentford,0,Crystal Palace,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/47c64c55/Brentford-vs-Crystal-Palace-History,0,0,623,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Burnley,0,Liverpool,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/822bd0ba/Burnley-vs-Liverpool-History,0,0,624,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Everton,0,Leeds United,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/5bfb9659/Everton-vs-Leeds-United-History,0,0,625,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Manchester Utd,0,Southampton,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/19538871/Southampton-vs-Manchester-United-History,0,0,626,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Newcastle Utd,0,Aston Villa,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/8602292d/Newcastle-United-vs-Aston-Villa-History,0,0,627,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Tottenham,0,Wolves,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/361ca564/Wolverhampton-Wanderers-vs-Tottenham-Hotspur-History,0,0,628,1,1,0,0,0.5,0.5,0,0
+2,25,Sat,2022-02-12,Leicester City,0,West Ham,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/7c21e445/Leicester-City-vs-West-Ham-United-History,0,0,629,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Leeds United,0,Manchester Utd,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/19538871/Leeds-United-vs-Manchester-United-History,0,0,630,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Arsenal,0,Brentford,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/18bb7c10/Brentford-vs-Arsenal-History,0,0,631,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Aston Villa,0,Watford,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/2abfe087/Aston-Villa-vs-Watford-History,0,0,632,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Manchester City,0,Tottenham,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/361ca564/Manchester-City-vs-Tottenham-Hotspur-History,0,0,633,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Southampton,0,Everton,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/33c895d4/Everton-vs-Southampton-History,0,0,634,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Crystal Palace,0,Chelsea,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/47c64c55/Chelsea-vs-Crystal-Palace-History,0,0,635,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Wolves,0,Leicester City,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/8cec06e1/Leicester-City-vs-Wolverhampton-Wanderers-History,0,0,636,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,West Ham,0,Newcastle Utd,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/7c21e445/Newcastle-United-vs-West-Ham-United-History,0,0,637,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Brighton,0,Burnley,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/943e8050/Brighton-and-Hove-Albion-vs-Burnley-History,0,0,638,1,1,0,0,0.5,0.5,0,0
+2,26,Sat,2022-02-19,Liverpool,0,Norwich City,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/1c781004/Liverpool-vs-Norwich-City-History,0,0,639,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Manchester Utd,0,Watford,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/2abfe087/19538871/Watford-vs-Manchester-United-History,0,0,640,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Chelsea,0,Leicester City,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/a2d435b3/Chelsea-vs-Leicester-City-History,0,0,641,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Leeds United,0,Tottenham,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/361ca564/Leeds-United-vs-Tottenham-Hotspur-History,0,0,642,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Southampton,0,Norwich City,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/1c781004/Southampton-vs-Norwich-City-History,0,0,643,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,West Ham,0,Wolves,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/7c21e445/Wolverhampton-Wanderers-vs-West-Ham-United-History,0,0,644,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Brentford,0,Newcastle Utd,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/b2b47a98/Brentford-vs-Newcastle-United-History,0,0,645,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Crystal Palace,0,Burnley,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/943e8050/47c64c55/Burnley-vs-Crystal-Palace-History,0,0,646,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Brighton,0,Aston Villa,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/8602292d/Brighton-and-Hove-Albion-vs-Aston-Villa-History,0,0,647,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Everton,0,Manchester City,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/b8fd03ef/Everton-vs-Manchester-City-History,0,0,648,1,1,0,0,0.5,0.5,0,0
+2,27,Sat,2022-02-26,Arsenal,0,Liverpool,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/18bb7c10/Liverpool-vs-Arsenal-History,0,0,649,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Newcastle Utd,0,Brighton,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/b2b47a98/Brighton-and-Hove-Albion-vs-Newcastle-United-History,0,0,650,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Aston Villa,0,Southampton,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/33c895d4/Aston-Villa-vs-Southampton-History,0,0,651,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Tottenham,0,Everton,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/361ca564/Everton-vs-Tottenham-Hotspur-History,0,0,652,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Wolves,0,Crystal Palace,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/47c64c55/Wolverhampton-Wanderers-vs-Crystal-Palace-History,0,0,653,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Norwich City,0,Brentford,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/cd051869/1c781004/Brentford-vs-Norwich-City-History,0,0,654,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Manchester City,0,Manchester Utd,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/19538871/Manchester-Derby-Manchester-City-vs-Manchester-United-History,0,0,655,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Liverpool,0,West Ham,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/7c21e445/Liverpool-vs-West-Ham-United-History,0,0,656,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Leicester City,0,Leeds United,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/5bfb9659/Leicester-City-vs-Leeds-United-History,0,0,657,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Watford,0,Arsenal,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/2abfe087/18bb7c10/Watford-vs-Arsenal-History,0,0,658,1,1,0,0,0.5,0.5,0,0
+2,28,Sat,2022-03-05,Burnley,0,Chelsea,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/943e8050/Chelsea-vs-Burnley-History,0,0,659,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Leeds United,0,Norwich City,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/1c781004/Leeds-United-vs-Norwich-City-History,0,0,660,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Chelsea,0,Newcastle Utd,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/b2b47a98/Chelsea-vs-Newcastle-United-History,0,0,661,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Crystal Palace,0,Manchester City,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/47c64c55/Manchester-City-vs-Crystal-Palace-History,0,0,662,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,West Ham,0,Aston Villa,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/8602292d/7c21e445/Aston-Villa-vs-West-Ham-United-History,0,0,663,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Everton,0,Wolves,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/8cec06e1/Everton-vs-Wolverhampton-Wanderers-History,0,0,664,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Brentford,0,Burnley,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/943e8050/Brentford-vs-Burnley-History,0,0,665,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Southampton,0,Watford,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/2abfe087/Southampton-vs-Watford-History,0,0,666,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Manchester Utd,0,Tottenham,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/361ca564/19538871/Tottenham-Hotspur-vs-Manchester-United-History,0,0,667,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Arsenal,0,Leicester City,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/18bb7c10/Leicester-City-vs-Arsenal-History,0,0,668,1,1,0,0,0.5,0.5,0,0
+2,29,Sat,2022-03-12,Brighton,0,Liverpool,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/822bd0ba/Brighton-and-Hove-Albion-vs-Liverpool-History,0,0,669,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Newcastle Utd,0,Crystal Palace,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/47c64c55/Newcastle-United-vs-Crystal-Palace-History,0,0,670,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Watford,0,Everton,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/2abfe087/Everton-vs-Watford-History,0,0,671,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Norwich City,0,Chelsea,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/1c781004/Chelsea-vs-Norwich-City-History,0,0,672,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Aston Villa,0,Arsenal,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/18bb7c10/Aston-Villa-vs-Arsenal-History,0,0,673,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Leicester City,0,Brentford,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/a2d435b3/Brentford-vs-Leicester-City-History,0,0,674,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Burnley,0,Southampton,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/33c895d4/Burnley-vs-Southampton-History,0,0,675,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Wolves,0,Leeds United,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/5bfb9659/Wolverhampton-Wanderers-vs-Leeds-United-History,0,0,676,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Manchester City,0,Brighton,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/b8fd03ef/Brighton-and-Hove-Albion-vs-Manchester-City-History,0,0,677,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Tottenham,0,West Ham,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/361ca564/West-Ham-United-vs-Tottenham-Hotspur-History,0,0,678,1,1,0,0,0.5,0.5,0,0
+2,30,Sat,2022-03-19,Liverpool,0,Manchester Utd,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/19538871/North-West-Derby-Liverpool-vs-Manchester-United-History,0,0,679,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Burnley,0,Manchester City,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/943e8050/Manchester-City-vs-Burnley-History,0,0,680,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Crystal Palace,0,Arsenal,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/18bb7c10/Crystal-Palace-vs-Arsenal-History,0,0,681,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Manchester Utd,0,Leicester City,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/19538871/Leicester-City-vs-Manchester-United-History,0,0,682,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Liverpool,0,Watford,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/2abfe087/Liverpool-vs-Watford-History,0,0,683,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Leeds United,0,Southampton,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/33c895d4/Leeds-United-vs-Southampton-History,0,0,684,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Chelsea,0,Brentford,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/cd051869/Chelsea-vs-Brentford-History,0,0,685,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Wolves,0,Aston Villa,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/8602292d/Wolverhampton-Wanderers-vs-Aston-Villa-History,0,0,686,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,West Ham,0,Everton,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/7c21e445/Everton-vs-West-Ham-United-History,0,0,687,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Tottenham,0,Newcastle Utd,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/361ca564/Newcastle-United-vs-Tottenham-Hotspur-History,0,0,688,1,1,0,0,0.5,0.5,0,0
+2,31,Sat,2022-04-02,Brighton,0,Norwich City,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/1c781004/Brighton-and-Hove-Albion-vs-Norwich-City-History,0,0,689,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Newcastle Utd,0,Wolves,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/8cec06e1/Newcastle-United-vs-Wolverhampton-Wanderers-History,0,0,690,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Leicester City,0,Crystal Palace,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/47c64c55/Leicester-City-vs-Crystal-Palace-History,0,0,691,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Everton,0,Manchester Utd,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/19538871/Everton-vs-Manchester-United-History,0,0,692,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Norwich City,0,Burnley,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/943e8050/1c781004/Burnley-vs-Norwich-City-History,0,0,693,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Manchester City,0,Liverpool,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/822bd0ba/Manchester-City-vs-Liverpool-History,0,0,694,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Arsenal,0,Brighton,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/18bb7c10/Brighton-and-Hove-Albion-vs-Arsenal-History,0,0,695,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Aston Villa,0,Tottenham,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/361ca564/Aston-Villa-vs-Tottenham-Hotspur-History,0,0,696,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Watford,0,Leeds United,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/2abfe087/Leeds-United-vs-Watford-History,0,0,697,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Southampton,0,Chelsea,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/33c895d4/Chelsea-vs-Southampton-History,0,0,698,1,1,0,0,0.5,0.5,0,0
+2,32,Sat,2022-04-09,Brentford,0,West Ham,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/7c21e445/Brentford-vs-West-Ham-United-History,0,0,699,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Tottenham,0,Brighton,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/361ca564/Brighton-and-Hove-Albion-vs-Tottenham-Hotspur-History,0,0,700,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,West Ham,0,Burnley,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/7c21e445/Burnley-vs-West-Ham-United-History,0,0,701,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Watford,0,Brentford,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/2abfe087/Brentford-vs-Watford-History,0,0,702,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Aston Villa,0,Liverpool,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/822bd0ba/Aston-Villa-vs-Liverpool-History,0,0,703,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Manchester Utd,0,Norwich City,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/1c781004/19538871/Norwich-City-vs-Manchester-United-History,0,0,704,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Leeds United,0,Chelsea,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/5bfb9659/Chelsea-vs-Leeds-United-History,0,0,705,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Wolves,0,Manchester City,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/8cec06e1/Manchester-City-vs-Wolverhampton-Wanderers-History,0,0,706,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Southampton,0,Arsenal,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/33c895d4/18bb7c10/Southampton-vs-Arsenal-History,0,0,707,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Everton,0,Crystal Palace,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/47c64c55/Everton-vs-Crystal-Palace-History,0,0,708,1,1,0,0,0.5,0.5,0,0
+2,33,Sat,2022-04-16,Newcastle Utd,0,Leicester City,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/a2d435b3/Newcastle-United-vs-Leicester-City-History,0,0,709,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Chelsea,0,West Ham,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/7c21e445/Chelsea-vs-West-Ham-United-History,0,0,710,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Burnley,0,Wolves,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/8cec06e1/Burnley-vs-Wolverhampton-Wanderers-History,0,0,711,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Brighton,0,Southampton,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/33c895d4/Brighton-and-Hove-Albion-vs-Southampton-History,0,0,712,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Arsenal,0,Manchester Utd,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/19538871/18bb7c10/Manchester-United-vs-Arsenal-History,0,0,713,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Norwich City,0,Newcastle Utd,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/1c781004/Newcastle-United-vs-Norwich-City-History,0,0,714,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Brentford,0,Tottenham,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/361ca564/Brentford-vs-Tottenham-Hotspur-History,0,0,715,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Manchester City,0,Watford,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/2abfe087/Manchester-City-vs-Watford-History,0,0,716,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Leicester City,0,Aston Villa,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/8602292d/Leicester-City-vs-Aston-Villa-History,0,0,717,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Crystal Palace,0,Leeds United,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/47c64c55/Leeds-United-vs-Crystal-Palace-History,0,0,718,1,1,0,0,0.5,0.5,0,0
+2,34,Sat,2022-04-23,Liverpool,0,Everton,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/822bd0ba/Merseyside-Derby-Everton-vs-Liverpool-History,0,0,719,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Southampton,0,Crystal Palace,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/33c895d4/Crystal-Palace-vs-Southampton-History,0,0,720,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Everton,0,Chelsea,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/cff3d9bb/Everton-vs-Chelsea-History,0,0,721,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Watford,0,Burnley,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/2abfe087/Burnley-vs-Watford-History,0,0,722,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Manchester Utd,0,Brentford,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/cd051869/19538871/Brentford-vs-Manchester-United-History,0,0,723,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,West Ham,0,Arsenal,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/18bb7c10/West-Ham-United-vs-Arsenal-History,0,0,724,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Aston Villa,0,Norwich City,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/1c781004/Aston-Villa-vs-Norwich-City-History,0,0,725,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Leeds United,0,Manchester City,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/5bfb9659/Manchester-City-vs-Leeds-United-History,0,0,726,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Wolves,0,Brighton,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/8cec06e1/Brighton-and-Hove-Albion-vs-Wolverhampton-Wanderers-History,0,0,727,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Tottenham,0,Leicester City,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/361ca564/Leicester-City-vs-Tottenham-Hotspur-History,0,0,728,1,1,0,0,0.5,0.5,0,0
+2,35,Sat,2022-04-30,Newcastle Utd,0,Liverpool,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/822bd0ba/Newcastle-United-vs-Liverpool-History,0,0,729,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Brighton,0,Manchester Utd,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/19538871/Brighton-and-Hove-Albion-vs-Manchester-United-History,0,0,730,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Manchester City,0,Newcastle Utd,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/b2b47a98/Manchester-City-vs-Newcastle-United-History,0,0,731,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Burnley,0,Aston Villa,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/943e8050/8602292d/Burnley-vs-Aston-Villa-History,0,0,732,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Leicester City,0,Everton,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/a2d435b3/Everton-vs-Leicester-City-History,0,0,733,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Norwich City,0,West Ham,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/7c21e445/1c781004/West-Ham-United-vs-Norwich-City-History,0,0,734,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Arsenal,0,Leeds United,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/5bfb9659/18bb7c10/Leeds-United-vs-Arsenal-History,0,0,735,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Liverpool,0,Tottenham,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/361ca564/Liverpool-vs-Tottenham-Hotspur-History,0,0,736,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Chelsea,0,Wolves,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/8cec06e1/Chelsea-vs-Wolverhampton-Wanderers-History,0,0,737,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Crystal Palace,0,Watford,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/2abfe087/Crystal-Palace-vs-Watford-History,0,0,738,1,1,0,0,0.5,0.5,0,0
+2,36,Sat,2022-05-07,Brentford,0,Southampton,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/33c895d4/Brentford-vs-Southampton-History,0,0,739,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Manchester Utd,0,Chelsea,0,Old Trafford,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/19538871/Chelsea-vs-Manchester-United-History,0,0,740,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Everton,0,Brentford,0,Goodison Park,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/cd051869/Everton-vs-Brentford-History,0,0,741,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Aston Villa,0,Crystal Palace,0,Villa Park,0,https://fbref.com/en/stathead/matchup/squads/8602292d/47c64c55/Aston-Villa-vs-Crystal-Palace-History,0,0,742,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Leeds United,0,Brighton,0,Elland Road,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/5bfb9659/Brighton-and-Hove-Albion-vs-Leeds-United-History,0,0,743,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Watford,0,Leicester City,0,Vicarage Road Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/2abfe087/Leicester-City-vs-Watford-History,0,0,744,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Southampton,0,Liverpool,0,St. Mary's Stadium,0,https://fbref.com/en/stathead/matchup/squads/822bd0ba/33c895d4/Liverpool-vs-Southampton-History,0,0,745,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,West Ham,0,Manchester City,0,London Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/7c21e445/Manchester-City-vs-West-Ham-United-History,0,0,746,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Wolves,0,Norwich City,0,Molineux Stadium,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/1c781004/Wolverhampton-Wanderers-vs-Norwich-City-History,0,0,747,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Newcastle Utd,0,Arsenal,0,St. James' Park,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/18bb7c10/Newcastle-United-vs-Arsenal-History,0,0,748,1,1,0,0,0.5,0.5,0,0
+2,37,Sun,2022-05-15,Tottenham,0,Burnley,0,Tottenham Hotspur Stadium,0,https://fbref.com/en/stathead/matchup/squads/943e8050/361ca564/Burnley-vs-Tottenham-Hotspur-History,0,0,749,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Chelsea,0,Watford,0,Stamford Bridge,0,https://fbref.com/en/stathead/matchup/squads/cff3d9bb/2abfe087/Chelsea-vs-Watford-History,0,0,750,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Norwich City,0,Tottenham,0,Carrow Road,0,https://fbref.com/en/stathead/matchup/squads/361ca564/1c781004/Tottenham-Hotspur-vs-Norwich-City-History,0,0,751,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Brentford,0,Leeds United,0,Brentford Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/cd051869/5bfb9659/Brentford-vs-Leeds-United-History,0,0,752,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Liverpool,0,Wolves,0,Anfield,0,https://fbref.com/en/stathead/matchup/squads/8cec06e1/822bd0ba/Wolverhampton-Wanderers-vs-Liverpool-History,0,0,753,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Brighton,0,West Ham,0,The American Express Community Stadium,0,https://fbref.com/en/stathead/matchup/squads/d07537b9/7c21e445/Brighton-and-Hove-Albion-vs-West-Ham-United-History,0,0,754,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Manchester City,0,Aston Villa,0,Etihad Stadium,0,https://fbref.com/en/stathead/matchup/squads/b8fd03ef/8602292d/Manchester-City-vs-Aston-Villa-History,0,0,755,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Burnley,0,Newcastle Utd,0,Turf Moor,0,https://fbref.com/en/stathead/matchup/squads/b2b47a98/943e8050/Newcastle-United-vs-Burnley-History,0,0,756,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Arsenal,0,Everton,0,Emirates Stadium,0,https://fbref.com/en/stathead/matchup/squads/d3fd31cc/18bb7c10/Everton-vs-Arsenal-History,0,0,757,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Crystal Palace,0,Manchester Utd,0,Selhurst Park,0,https://fbref.com/en/stathead/matchup/squads/47c64c55/19538871/Crystal-Palace-vs-Manchester-United-History,0,0,758,1,1,0,0,0.5,0.5,0,0
+2,38,Sun,2022-05-22,Leicester City,0,Southampton,0,King Power Stadium,0,https://fbref.com/en/stathead/matchup/squads/a2d435b3/33c895d4/Leicester-City-vs-Southampton-History,0,0,759,1,1,0,0,0.5,0.5,0,0

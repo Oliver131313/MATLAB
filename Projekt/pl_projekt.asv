@@ -160,11 +160,11 @@ this_season_agr = sortrows(this_season_agr, 'Points', 'descend');
 this_season_agr.Ranking = x';
 this_season_agr = this_season_agr(:,  [5, 1, 4]);
 %% Vystupna vizualizacia tabuliek
-fprintf('\nPremier League 2021/2022.\n')
-fprintf('Do dnešného dňa:\n')
-disp(this_season_agr)
-
 fprintf('\nSimulované poradie Premier League 2021/2022.\n')
+fprintf('Celá sezóna:\n')
+disp(rank_full)
+
+fprintf('\Premier League 2021/2022 do dnešného dňa.\n')
 fprintf('Celá sezóna:\n')
 disp(rank_full)
 %% Sekcia pomocnych vypoctov
