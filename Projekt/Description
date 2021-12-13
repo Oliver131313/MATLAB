@@ -1,5 +1,7 @@
 # This is a description file to the project
 Code focuses on simulation of current (at all times) season results and resulting ranking of teams. 
+The reason for impletenting the simulation in MATLAB is that it is a part of an university course assignment. 
+
 1. Scraping data to obtain results of PL matches from past seasons from fbref.com
 2. Data are aggregated are prepared in Python
 3. MATLAB file calls .py files to obtain updated data for PL results and performs simulations>
